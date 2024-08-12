@@ -8,9 +8,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 hi am cygon23
-am front web developer with html,css bootscamp and java script as developing languages 
-am looking for the experienced developeds to whom i will be shareing ideas about varius codes and design 
-am available in varius social media
+am Full stack developer and security analyst accopained with skills such code review and secure codding
+Quite experirience with different projects and work as IT assitant at IAA 
+am available for work also partiners also gaining further experience 
+Lets exprore cyber world
 
 
 
