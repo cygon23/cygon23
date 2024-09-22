@@ -5,14 +5,11 @@
 <p align="center">
 <!-- Typing SVG by perfectaltruis -->
     <a href="https://github.com/perfectaltruis">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;Java%20and%20Python%20Programmer;Spring%20Boot%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience; Writer%20On%20Medium%20;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;JavaScript%20and%20Python%20Programmer;php%20Boot%20and%20Laravel%20Developer;2%20Year%20of%20Coding%20Experience; font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 <!-- Social icons section -->
 	<p align="center">
-<!-- MEDIUM PROFILE -->
-<a href="https://medium.com/@intuitivers" alt="Medium" title="Medium">
-  <img width="32px" src="https://img.icons8.com/?size=100&id=NO8It5EgLtpM&format=png&color=000000" alt="Medium"/>
-</a> &#8287;&#8287;&#8287;
+
   
   <!-- TWITTER PROFILE -->
   <a href="https://x.com/GodfreyMug14741" alt="Twitter" title="Twitter">
