@@ -5,7 +5,7 @@
 <p align="center">
 <!-- Typing SVG by perfectaltruis -->
     <a href="https://github.com/perfectaltruis">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;JavaScript%20and%20Python%20Programmer;php%20Boot%20and%20Laravel%20Developer;2%20Year%20of%20Coding%20Experience; font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;JavaScript%20and%20Python%20Programmer;php%20and%20Laravel%20Developer;1%20Year%20of%20Coding%20Experience; font=Bootscramp,css&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 <!-- Social icons section -->
 	<p align="center">
@@ -28,31 +28,22 @@
   <tr>
     <td colspan="2">
       <p id="header" align="center">
-        <img src="https://komarev.com/ghpvc/?username=perfectaltruis&style=for-the-badge&color=orange" alt="Profile Views"/>
+        <img src="https://komarev.com/ghpvc/?username=cygon23&style=for-the-badge&color=orange" alt="Profile Views"/>
       </p>
     </td>
   </tr>
   <tr>
-     <td><p><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p>
+     <td><p><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cygon23&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p>
      </td>
-  <td>
-  <!-- Cybersecurity Tools -->
-<p>Tools</p>
-<img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
-<img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit" />
-<img src="https://img.icons8.com/?size=50&id=bcoJs0g0Ez7r&format=png&color=FFFFFF" alt="Steganography" title="Steganography" />
-
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap" />
-   
-  </td>
+ 
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/perfectaltruis?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/perfectaltruis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cygon23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
       </a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://github.com/perfectaltruis?tab=repositories&sort=stargazers">
+      <a href="https://github.com/cygon23?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/perfectaltruis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
     </td>
@@ -63,19 +54,19 @@
   </tr>
   <tr>
     <td colspan="2">
-      <a href="https://github.com/perfectaltruis">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectaltruis&bg_color=1F222E&hide_border=true&point=F85D7F&line=007FFF&area=true&area_color=007FFF&title_color=FFF&color=fff" alt="Activity Graph"/>
+      <a href="https://github.com/cygon23">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cygon23&bg_color=1F222E&hide_border=true&point=F85D7F&line=007FFF&area=true&area_color=007FFF&title_color=FFF&color=fff" alt="Activity Graph"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/perfectaltruis">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="GitHub Streak"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=cygon23&theme=dark" alt="GitHub Streak"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/perfectaltruis">
+      <a href="https://github.com/cygon23">
         <img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/>
       </a>
     </td>
