@@ -26,6 +26,6 @@ Always building, always breaking things down to understand and fix them.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```
-##Quick reach ##
+**Quick reach **
 wa.me/255673045414
 ```
