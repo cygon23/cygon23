@@ -23,4 +23,9 @@ Always building, always breaking things down to understand and fix them.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/godfreymuganyizi45@gmail.com) 
 
   
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+###Quick reach ###
+wa.me/255673045414
+```
