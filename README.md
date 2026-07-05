@@ -19,7 +19,7 @@ Always building, always breaking things down to understand and fix them.
 ---
 [![](https://visitcount.itsvg.in/api?id=cygon23&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy me a Coffe
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/godfreymuganyizi45@gmail.com) 
 
   
